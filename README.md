@@ -47,7 +47,7 @@ ProjectSB/
 
 Склонируйте или скачайте проект:
 
-git clone https://github.com/username/ProjectSB.git
+git clone https://github.com/DarinDmitry1/ProjectSB.git
 
 
 Откройте проект в IDE или в консоли.
